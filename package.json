@@ -9,7 +9,8 @@
     }
   },
   "scripts": {
-    "test": "TODO"
+    "build": "tsc",
+    "dev": "tsc --watch"
   },
   "repository": {
     "type": "git",
