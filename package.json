@@ -20,6 +20,6 @@
   "license": "MIT",
   "dependencies": {
     "typescript": "^4.9.5",
-    "@tsconfig/recommended": "^1.0.2"
+    "@tsconfig/recommended": "^1.0.8"
   }
 }
