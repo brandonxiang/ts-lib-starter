@@ -6,20 +6,20 @@ settings:
 
 dependencies:
   '@tsconfig/recommended':
-    specifier: ^1.0.2
-    version: 1.0.2
+    specifier: ^1.0.8
+    version: 1.0.8
   typescript:
-    specifier: ^5.7.2
-    version: 5.7.2
+    specifier: ^5.7.3
+    version: 5.7.3
 
 packages:
 
-  /@tsconfig/recommended@1.0.2:
-    resolution: {integrity: sha512-dbHBtbWBOjq0/otpopAE02NT2Cm05Qe2JsEKeCf/wjSYbI2hz8nCqnpnOJWHATgjDz4fd3dchs3Wy1gQGjfN6w==}
+  /@tsconfig/recommended@1.0.8:
+    resolution: {integrity: sha512-TotjFaaXveVUdsrXCdalyF6E5RyG6+7hHHQVZonQtdlk1rJZ1myDIvPUUKPhoYv+JAzThb2lQJh9+9ZfF46hsA==}
     dev: false
 
-  /typescript@5.7.2:
-    resolution: {integrity: sha512-i5t66RHxDvVN40HfDd1PsEThGNnlMCMT3jMUuoh9/0TaqWevNontacunWyN02LA9/fIbEWlcHZcgTKb9QoaLfg==}
+  /typescript@5.7.3:
+    resolution: {integrity: sha512-84MVSjMEHP+FQRPy3pX9sTVV/INIex71s9TL2Gm5FG/WG1SqXeKyZ0k7/blY/4FdOzI12CBy1vGc4og/eus0fw==}
     engines: {node: '>=14.17'}
     hasBin: true
     dev: false
