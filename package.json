@@ -20,6 +20,6 @@
   "license": "MIT",
   "dependencies": {
     "typescript": "^5.7.3",
-    "@tsconfig/node-lts": "^22.0.1"
+    "@tsconfig/node-lts": "^24.0.0"
   }
 }
